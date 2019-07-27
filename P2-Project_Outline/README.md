@@ -1,6 +1,6 @@
 # Dewey Project Outline
-## Tracy Cook
-## July 26, 2019
+### Tracy Cook
+### July 26, 2019
 
 ### Assignment Description
 [Project Outline Assignment](https://education.launchcode.org/liftoff/assignments/project-outline/)
@@ -13,7 +13,7 @@ This will be useful for tracking inventory, and making sure students are account
 ### Features
 --User login: Users (teachers) will be able to create accounts and log in to the application. Each user will have a library page, detailing the contents of that user's classroom library.
 --Add book: User will be able to add an entry, which may include: title, author, genre, description, and reading level, and student name.
---Edit book: User will be able to edit details
+--Edit book: User will be able to edit details.
 --Remove book: User will be able to remove a book when logged in. This will be useful in case a book gets lost/damaged/is otherwise removed from classroom circulation.
 --"Checked-out books" page: User wil be able to see a list of books currently checked out from the collection.
 
