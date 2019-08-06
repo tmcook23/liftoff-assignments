@@ -16,4 +16,4 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Project Repo Link
 
-[Liftoff Project Repository](https://github.com/tmcook23/Liftoff-Project)
+[Liftoff Project Repository](https://github.com/tmcook23/Bookmark)
